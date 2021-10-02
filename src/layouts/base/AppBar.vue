@@ -3,7 +3,7 @@
     app
     elevate-on-scroll
     style="right: 0"
-    :color="color || 'white'"
+    :color="color || '#dbffdc'"
     :height="$vuetify.breakpoint.mdAndUp ? '150px' : '60px'"
   >
     <v-spacer />
