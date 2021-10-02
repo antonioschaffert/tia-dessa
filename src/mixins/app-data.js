@@ -282,7 +282,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Dressinhaaaa, Te desejo tudo de melhor neste novo ciclo. Você nunca mede esforços para ajudar o próximo, sempre está disponível e pronta para ajudar a todos, que briga comigo mas logo abre um sorrisão 😁, sempre anima os encontros e tem a casa sempre aberta para nos receber 💛. Obrigada pela nossa amizade, por rir das minhas piadas bestas, e por nunca ter compartilhado teu chimarrão comigo! 🤣 Sabe que sou meia louca mas te amo! 💛 Um beijo grande! Parabéns!!! 😘😘😘 Ana Pati, Roger, Nicholas & Natalie',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 33,
@@ -292,7 +292,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Parabéns minha afilhada,muita saúde,paz, amor, prosperidade e muitos sonhos à realizar;que Deus esteja sempre te iluminando! Te amo, te amo e aproveita teu dia! Tia e madrinha Suzete e família.',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 34,
@@ -302,7 +302,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Andressa, hoje é teu dia, o aniversario, muita saúde, felicidades e luz. Que Deus te abençoe sempre, com essa alegria, força e sucesso, na vida em família. Abraço, saudades de tua vó Celmira!',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 35,
@@ -312,7 +312,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Andressa desde que nasceu és luz , ilumina a família toda . Obrigada por ser esta pessoa tão especial , feliz aniversário . Ti amo !!!! Tia Tereza bjsss',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 36,
@@ -322,7 +322,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Andressa Querida que este sorriso lindo sempre faça presente nos teus dias, que continue a alegrar à todos que te cercam. Desejamos que este novo ciclo seja repleto de amor, bençãos e saúde. Que as surpresas da vida sejam como a desse dia!!! Feliz aniversário!!! Te amamos❤️',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 37,
@@ -332,7 +332,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Andressa!!! Feliz aniversário!! Que esse e todos os outros anos da sua vida sejam maravilhosos,  repletos de muitas realizações, saúde,  paz e alegrias,  junto aos teus. Estamos com muitas saudades. Te amo minha querida 😍😍',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 38,
@@ -342,7 +342,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Andressa, parabéns pelo teu aniversário, tenho muito orgulho de você e também de meus netos; gostaria de estar presente nesta comemoração,mas não é possível,não faltará oportunidade,quando vieres ao Brasil, venha visitar me, aí faremos uma festa e comemoramos juntos. Aproveite esta comemoração e seja muito feliz! Beijos do teu pai',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 39,
@@ -352,7 +352,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Parabéns minha querida!!! Que Deus abençoe essa nova volta em torno do Sol! Tudo de melhor nessa vida. Obrigada por sempre me receber tão bem nesse “mundo novo”, desde o início. Que seu dia seja leve e cheio de diversão! Dessa vez não poderei estar presente então… Bebe uma por mim! Ps: Precisamos renovar essa foto🥰',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 40,
@@ -362,7 +362,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Tia Dessa! Hoje é um dia especial na vida de todos nos, que temos a sorte de ter voce nas nossas vidas. Uma moça do coracao enorme, uma  bondade de outro mundo, muito amiga, companheira, fiel. Uma pessoa que está ali estendendo a mao pro que for e a hora que for. Sempre. Voce chegou na nossa familia e nos trouxe muita alegria. Obrigada por ser esta pessoa incrivel. Te desejo muuita saude, paz, felicidade e muita musica brasileira que a gente adora! Que Deus continue abencoando o caminho de voce e da sua familia. Sou muito grata por ter voces na minha vida. Obrigada por tudo! Te amamos demais! E estamos com voce sempre! Beijo no coracao, Tia Soca.',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 41,
@@ -372,7 +372,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Bonita! O que falar pra você nesse dia? Peço a Deus que continue te preservando assim, Feliz, Alegre, sempre com um coração disposto a ajudar que não mede esforço , que você possa continuar colhendo os melhores frutos dessa vida pois você merece muito! Parabéns, adoro você!❤️',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 42,
@@ -392,7 +392,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Amamos voce!',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 44,
@@ -402,7 +402,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Minha loirao',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 45,
@@ -442,7 +442,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Parabens Denguinha! Que seu novo ciclo seja repleto de muito amor, saude, realizacoes. Te amamos!! Aproveita muito a festanca',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 50,
@@ -452,7 +452,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Te amo tia Dessa',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 51,
@@ -482,7 +482,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Amiga especial!',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 54,
@@ -492,7 +492,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Amiga especial!',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 55,
@@ -502,7 +502,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: '',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 56,
@@ -522,7 +522,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Te amo Tia Dessa',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 58,
@@ -542,7 +542,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Obrigada por tudo! Voce e pedra preciosa.',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'family',
           },
           {
             id: 60,
@@ -552,7 +552,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Parabéns amadaaa!! Como amo celebrar a sua vida! Você é uma mulher guerreira e de muitas qualidades, mas acima de tudo és uma amiga especial com quem podemos contar para tudo e sempre. Muitas felicidades, porque você merece!!! Que Deus continue iluminando seus dias com muito amor e paz, e que abençoe seu caminho com saúde, sucesso e alegrias sem fim! Claudia e familia.',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 61,
@@ -562,7 +562,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Feliz aniversário Denguinho! Você é luz, vem e aquece. Abre gargalhadas no tempo, espaço, irradia alegria, e coloca todos pra dançar. Não deixa ninguém esmorecer, da de si o olhar atento. Você é carinho, conforto, amor. Você merece o mundo. Feliz aniversário amiga querida!! Muitos anos de vida cheios de saúde, bençãos e motivos pra comemorar! ✨✨',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 62,
@@ -572,7 +572,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Como ser tão gata, engraçada, fortaleza, ninho! Pois é! Tu és uma combinação peculiar entre inspirações e suspiros. Que onde chega colore o ambiente e traz alegria a todos que estão a tua volta. Que siga abençoada de saúde e energia, vitalidade e aprendizados. Que todos os teus sonhos se realizem. Que a vida continue te mostrando o quanto ela pode ser pode boa de se viver! Te amo hoje e sempre! Feliz vida! 🌈✨🎁❤️🎈',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 63,
@@ -582,7 +582,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Te amo!',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 64,
@@ -592,7 +592,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Andressa Querida♥️🎉🥳🥳Que o Amor continue sendo derramado em voce e a partir de você ♥️Te admiramos muito e te desejamos um caminho de Com muita Saúde Paz e Alegrias 🙌♥️🎉🎉🥳🥳🥳Parabéns !!🎉🎉🥳Feliz Aniversário 🎂 com muito carinho de seus amigos Sandra e Antônio !!♥️Beijo grande 😘🎉🎉🥳🥳🥳🥳',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 65,
@@ -602,7 +602,7 @@ export default {
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: 'Tia Dêssa, continue sendo essa pessoa maravilhosa que você é. Ser humano de coração generoso, esposa dedicada, mãe  cuidadosa, amiga leal, mulherão da pohah... Tá, eu sei que é um pouco nervosa... Mas e daí? Seu nervoso é só fogo de palha, logo passa..🤣 Saiba que vc é muito amada e um privilégio quem te tem por perto. Bjs 😘',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
         ],
         instagramPosts: [
