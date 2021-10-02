@@ -15,7 +15,6 @@
     mixins: [
       LoadSections([
         'project-detail',
-        'project-gallery-alt',
       ]),
     ],
 

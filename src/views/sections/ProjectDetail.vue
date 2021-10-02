@@ -30,9 +30,6 @@
           :title="activeProject.title"
           align="left"
         />
-        <base-subheading
-          :title="activeProject.subtitle"
-        />
         <base-subtitle
           title="Description"
           weight="bold"
