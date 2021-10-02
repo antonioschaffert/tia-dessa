@@ -510,9 +510,9 @@ export default {
             title: 'Fe e Pati',
             subtitle: 'Happy Bday',
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
-            description: '',
+            description: 'Happy Bday',
             tags: ['tag', 'tag', 'tag'],
-            category: 'night',
+            category: 'friends',
           },
           {
             id: 57,
