@@ -507,8 +507,8 @@ export default {
           {
             id: 56,
             src: require('@/assets/projects/53.jpg'),
-            title: '',
-            subtitle: 'Unsplash',
+            title: 'Fe e Pati',
+            subtitle: 'Happy Bday',
             date: new Date().toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' }),
             description: '',
             tags: ['tag', 'tag', 'tag'],
