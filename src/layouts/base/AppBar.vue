@@ -6,6 +6,14 @@
     :color="color || '#dbffdc'"
     :height="$vuetify.breakpoint.mdAndUp ? '150px' : '60px'"
   >
+    <v-toolbar-title class="headline">
+      <router-link
+        :to="{ name: 'Home' }"
+        tag="h3"
+        style="cursor: pointer; color: #458c47"
+        v-text="appData.title"
+      />
+    </v-toolbar-title>
     <v-spacer />
     <div v-if="$vuetify.breakpoint.mdAndUp">
       <v-tabs

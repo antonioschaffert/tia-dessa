@@ -2,7 +2,7 @@ export default {
   computed: {
     appData () {
       return {
-        title: 'HAPPY BDAY TIA DESSA :)',
+        title: '(: HAPPY 33 TIA DESSA :)',
         socialLinks: [
           { name: 'Facebook', icon: 'mdi-facebook', link: 'https://facebook.com', color: '#0F98F6' },
           { name: 'Instagram', icon: 'mdi-instagram', link: 'https://instagram.com', color: '#EF0075' },
