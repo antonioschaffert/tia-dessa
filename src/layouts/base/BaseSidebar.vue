@@ -26,37 +26,6 @@
         </v-list-item>
       </v-list-item-group>
     </v-list>
-    <template #append>
-      <v-btn
-        text
-        :ripple="false"
-        :href="`tel:${appData.contact.phone.value}`"
-      >
-        <v-icon
-          class="mr-2"
-          v-text="appData.contact.phone.icon"
-        />
-        <span
-          v-text="appData.contact.phone.value"
-        />
-      </v-btn>
-
-      <v-btn
-        text
-        tile
-        height="60px"
-        :ripple="false"
-        :href="`mailto:${appData.contact.email.value}`"
-      >
-        <v-icon
-          class="mr-2"
-          v-text="appData.contact.email.icon"
-        />
-        <span
-          v-text="appData.contact.email.value"
-        />
-      </v-btn>
-    </template>
   </v-navigation-drawer>
 </template>
 
