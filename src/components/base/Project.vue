@@ -17,7 +17,7 @@
           <div
             v-if="hover"
             class="d-flex transition-fast-in-fast-out v-card--reveal primary"
-            style="height: 100%; opacity: .9"
+            style="height: 100%; opacity: .8; color: white;"
           >
             <v-row
               class="flex-column"
@@ -69,5 +69,8 @@
 </script>
 
 <style lang="scss" scoped>
-
+  .espaco {
+    height: 30px;;
+    padding: 10px;
+  }
 </style>
