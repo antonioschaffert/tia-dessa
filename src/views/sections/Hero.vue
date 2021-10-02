@@ -26,8 +26,8 @@
                 <base-subheading
                   title="We Love you so much!"
                 />
-                <base-body
-                  text="33 anos :)"
+                <base-subheading
+                  title="Happy 33!!!"
                 />
 
               </v-col>
